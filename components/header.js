@@ -8,7 +8,7 @@ export const Header = () => {
         <Link href='/'>
           <a className='text-white ml-4'>Event Landing Page</a>
         </Link>
-        <Link href='/developer?utm_campaign=marketer'>
+        <Link href='/developer?utm_campaign=developer'>
           <a className='text-white ml-4'>Developer Page</a>
         </Link>
       </div>
