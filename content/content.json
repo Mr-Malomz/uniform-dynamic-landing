@@ -1,7 +1,7 @@
 [
     {
       "id": "personalized-for-developer",
-      "url": "/developer?utm_campaign=developer",
+      "url": "/developer",
       "fields": {
         "title": "Home",
         "description": "You triggered the developer signal"
